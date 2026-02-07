@@ -155,13 +155,3 @@ If you like this project ⭐ star the repo!
 This project is licensed under the **MIT License**.
 Feel free to use, modify, and distribute.
 
----
-
-If you want, I can also:
-
-* ✨ Make a **shorter README**
-* 📌 Customize it for **college submission**
-* 🖼 Add **screenshots section**
-* 🧾 Write a **proper project description for resume**
-
-Just tell me 👍
